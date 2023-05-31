@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(76, 127, 204);
+}
+
+.header{
+    position: relative;
+    height: 150px;
+    border-bottom: 2px solid black;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vw;
+    font-size-adjust: auto;
+    font-family: impact;
+}
+
+
+
+.footer{
+    position:relative;
+    background-color: rgb(0, 0, 0);
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    height:100px;
+    color: azure;
+    top: 450px;
+    left: -1%;
+    width: 102%;
+    border-radius: 8px;
+}
+
+.início{
+    position: absolute;
+    background-color:  rgb(76, 127, 204);
+    left: 89%;
+    top: 12%;
+    font-size: 20px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
